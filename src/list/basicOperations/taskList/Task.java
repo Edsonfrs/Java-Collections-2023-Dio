@@ -1,4 +1,4 @@
-package list.basicOperations;
+package list.basicOperations.taskList;
 
 public class Task {
     // Attribute
