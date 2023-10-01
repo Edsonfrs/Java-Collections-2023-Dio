@@ -29,7 +29,7 @@ public class OrderingPerson  {
         OrderingPerson orderingPerson = new OrderingPerson();
 
         orderingPerson.addPersonToList("Allan", 20, 1.78);
-        orderingPerson.addPersonToList("Jõao", 30, 1.80);
+        orderingPerson.addPersonToList("João", 30, 1.80);
         orderingPerson.addPersonToList("Maria", 19, 1.72);
         orderingPerson.addPersonToList("Lucas", 17, 1.75);
         orderingPerson.addPersonToList("Solange", 18, 1.71);
