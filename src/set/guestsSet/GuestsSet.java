@@ -1,4 +1,4 @@
-package list.basicOperations.guestsList;
+package set.guestsSet;
 
 import java.util.HashSet;
 import java.util.Set;
